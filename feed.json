@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "xdorro's blog",
+    "home_page_url": "https://xdorro.github.io/",
+    "feed_url": "https://xdorro.github.io/feed.json",
+    "description": "Blog cá nhân của xdorro",
+    "items": [
+        {
+            "id": "https://xdorro.github.io/2021/02/20/doan-xem-pi-se-duoc-phat-hanh-nhu-the-nao/",
+            "url": "https://xdorro.github.io/2021/02/20/doan-xem-pi-se-duoc-phat-hanh-nhu-the-nao/",
+            "title": "Đoán xem Pi sẽ được phát hành như thế nào?",
+            "summary": "Khi tham gia vào bất cứ dự án đầu tư nào, 1 câu hỏi được đặt ra là liệu nó có an toàn hay không, có lừa đảo hay không?",
+            "date_modified": "2021-02-19T17:00:00.000Z"
+        },
+        {
+            "id": "https://xdorro.github.io/2021/02/20/tham-vong-cua-pi-qua-lon-nicolas-thuc-su-khong-phai-la-nguoi-binh-thuong/",
+            "url": "https://xdorro.github.io/2021/02/20/tham-vong-cua-pi-qua-lon-nicolas-thuc-su-khong-phai-la-nguoi-binh-thuong/",
+            "title": "Tham vọng của Pi quá lớn! Nicolas thực sự không phải là người bình thường",
+            "summary": "Hình ảnh này cho thấy tham vọng của Nicolas và Pi Network. Hiện tại, người dùng tích cực của Pi đã vượt quá 13 triệu Pioneers.",
+            "image": "https://xdorro.github.io/assets/img/nicolas-developer-17-02-2021-2.png",
+            "date_modified": "2021-02-19T17:00:00.000Z"
+        },
+        {
+            "id": "https://xdorro.github.io/2021/02/21/giao-dich-trao-doi-pi-ky-la-nhat-ke-tu-khi-pi-network-ra-doi/",
+            "url": "https://xdorro.github.io/2021/02/21/giao-dich-trao-doi-pi-ky-la-nhat-ke-tu-khi-pi-network-ra-doi/",
+            "title": "Giao dịch trao đổi Pi kỳ lạ nhất kể từ khi Pi Network ra đời!",
+            "summary": "Sau nhiều lần theo dõi các hoạt động trao đổi, đủ loại mặt hàng, tôi tổng hợp tính toán rất nhiều",
+            "image": "https://xdorro.github.io/assets/img/pi-china-exchange-1.png",
+            "date_modified": "2021-02-20T17:00:00.000Z"
+        }
+    ]
+}

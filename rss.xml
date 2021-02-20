@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>xdorro&apos;s blog</title>
+        <link>https://xdorro.github.io/</link>
+        <description>Blog cá nhân của xdorro</description>
+        <lastBuildDate>Sat, 20 Feb 2021 17:50:23 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://xdorro.github.io/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Đoán xem Pi sẽ được phát hành như thế nào?]]></title>
+            <link>https://xdorro.github.io/2021/02/20/doan-xem-pi-se-duoc-phat-hanh-nhu-the-nao/</link>
+            <guid>https://xdorro.github.io/2021/02/20/doan-xem-pi-se-duoc-phat-hanh-nhu-the-nao/</guid>
+            <pubDate>Fri, 19 Feb 2021 17:00:00 GMT</pubDate>
+            <description><![CDATA[Khi tham gia vào bất cứ dự án đầu tư nào, 1 câu hỏi được đặt ra là liệu nó có an toàn hay không, có lừa đảo hay không?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tham vọng của Pi quá lớn! Nicolas thực sự không phải là người bình thường]]></title>
+            <link>https://xdorro.github.io/2021/02/20/tham-vong-cua-pi-qua-lon-nicolas-thuc-su-khong-phai-la-nguoi-binh-thuong/</link>
+            <guid>https://xdorro.github.io/2021/02/20/tham-vong-cua-pi-qua-lon-nicolas-thuc-su-khong-phai-la-nguoi-binh-thuong/</guid>
+            <pubDate>Fri, 19 Feb 2021 17:00:00 GMT</pubDate>
+            <description><![CDATA[Hình ảnh này cho thấy tham vọng của Nicolas và Pi Network. Hiện tại, người dùng tích cực của Pi đã vượt quá 13 triệu Pioneers.]]></description>
+            <enclosure url="https://xdorro.github.io/assets/img/nicolas-developer-17-02-2021-2.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Giao dịch trao đổi Pi kỳ lạ nhất kể từ khi Pi Network ra đời!]]></title>
+            <link>https://xdorro.github.io/2021/02/21/giao-dich-trao-doi-pi-ky-la-nhat-ke-tu-khi-pi-network-ra-doi/</link>
+            <guid>https://xdorro.github.io/2021/02/21/giao-dich-trao-doi-pi-ky-la-nhat-ke-tu-khi-pi-network-ra-doi/</guid>
+            <pubDate>Sat, 20 Feb 2021 17:00:00 GMT</pubDate>
+            <description><![CDATA[Sau nhiều lần theo dõi các hoạt động trao đổi, đủ loại mặt hàng, tôi tổng hợp tính toán rất nhiều]]></description>
+            <enclosure url="https://xdorro.github.io/assets/img/pi-china-exchange-1.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
